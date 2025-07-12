@@ -25,6 +25,6 @@ Frontend dünyasını keşfetmeye başlayan bir geliştiriciyim. Şu anda HTML v
 
 ###  Bana ulaşın
 
--  <a href="https://linkedin.com/eraykiyici" target=blank >LinkedIn</a>
+-  <a href="https://www.linkedin.com/in/eraykiyici/" target=blank >LinkedIn</a>
 -  **eraykiyici@icloud.com**
 
