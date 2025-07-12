@@ -1,4 +1,4 @@
-### Merhaba! Ben [Eray]
+### Merhaba, Ben Eray Kıyıcı
 
 Frontend dünyasını keşfetmeye başlayan bir geliştiriciyim. Şu anda HTML ve CSS üzerinde çalışıyorum ve temel web geliştirme bilgimi sağlamlaştırmak için öğrenmeye devam ediyorum.
 
@@ -25,6 +25,6 @@ Frontend dünyasını keşfetmeye başlayan bir geliştiriciyim. Şu anda HTML v
 
 ###  Bana ulaşın
 
--  <a href="https://linkedin.com/eraykiyici.com" target=blank >LinkedIn</a>
--  Mail: **eraykiyici@icloud.com**
+-  <a href="https://linkedin.com/eraykiyici" target=blank >LinkedIn</a>
+-  **eraykiyici@icloud.com**
 
