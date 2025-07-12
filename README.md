@@ -28,7 +28,6 @@ Frontend dünyasını keşfetmeye başlayan bir geliştiriciyim. Şu anda HTML v
 - Patika.dev Frontend Bootcamp'ine katılıyorum.
 - Küçük HTML ve CSS projeleri geliştirerek pratiğimi artırıyorum.
 - Git ve GitHub kullanma alışkanlığı edinmeye çalışıyorum.
-- Yeni teknolojilere temel hazırlığı yapıyorum
 
 ---
 
