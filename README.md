@@ -9,9 +9,9 @@ Frontend dünyasını keşfetmeye başlayan bir geliştiriciyim. Şu anda HTML v
 -  Frontend geliştirme yolculuğundayım.
 -  Şu anda HTML bilgim var ve CSS temelleri üzerinde çalışıyorum.
 
----
+<br>
 
--  Öğrendiğim teknolojiler:
+  Öğrendiğim teknolojiler:
   - HTML5
   - Temel CSS
 
