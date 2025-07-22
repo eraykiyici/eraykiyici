@@ -13,7 +13,7 @@ Frontend dünyasını keşfetmeye başlayan bir geliştiriciyim. Şu anda HTML v
 
   #### Öğrendiğim teknolojiler:
   - HTML5
-  - Temel CSS
+  - CSS
 
   #### Öğrenmeyi hedeflediğim teknolojiler:
   - JavaScript
