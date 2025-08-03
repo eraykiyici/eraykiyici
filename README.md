@@ -7,7 +7,7 @@ Frontend dünyasını keşfetmeye başlayan bir geliştiriciyim. Şu anda HTML v
 ### Hakkımda
 
 -  Frontend geliştirme yolculuğundayım.
--  Şu anda HTML bilgim var ve CSS temelleri üzerinde çalışıyorum.
+-  HTML, CSS, Bootstrap ve Tailwind CSS bilgim var; JavaScript, React öğreniyorum.
 
 
 
