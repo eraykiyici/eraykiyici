@@ -14,11 +14,11 @@ Frontend dünyasını keşfetmeye başlayan bir geliştiriciyim. Şu anda HTML v
   #### Öğrendiğim teknolojiler:
   - HTML5
   - CSS
+  - Bootstrap
+  - Tailwind CSS
 
   #### Öğrenmeyi hedeflediğim teknolojiler:
   - JavaScript
-  - Bootstrap
-  - Tailwind CSS
   - React
 
 ---
@@ -26,7 +26,7 @@ Frontend dünyasını keşfetmeye başlayan bir geliştiriciyim. Şu anda HTML v
 ###  Şu anda neler yapıyorum?
 
 - Patika.dev Frontend Bootcamp'ine katılıyorum.
-- Küçük HTML ve CSS projeleri geliştirerek pratiğimi artırıyorum.
+- HTML, CSS, Bootstrap ve Tailwind CSS projeleri geliştirerek pratiğimi artırıyorum.
 - Git ve GitHub kullanma alışkanlığı edinmeye çalışıyorum.
 
 ---
