@@ -24,10 +24,6 @@ I'm passionate about building modern, responsive, and user-friendly web interfac
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 
-### 🌟 I’m Learning
-- Advanced **JavaScript (ES6+)**  
-- **React** ecosystem & modern workflows
-
 ---
 
 ## 📌 What I'm Working On
